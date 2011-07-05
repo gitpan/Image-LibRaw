@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 use Image::LibRaw;
+use Test::Requires 'GTop';
 use GTop;
 use Test::More tests => 11;
 

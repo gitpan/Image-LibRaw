@@ -1,7 +1,7 @@
 package Image::LibRaw;
 use strict;
 use warnings;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 our @ISA;
 use 5.008005;
 
